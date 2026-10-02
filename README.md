@@ -38,4 +38,4 @@ en una entrevista.
 ## Contacto
 
 [fernandog8.dev@gmail.com](mailto:fernandog8.dev@gmail.com) |
-[LinkedIn](https://www.linkedin.com/in/fernando-gamaliel-rodriguez-torres-81793a399/)
+[LinkedIn](https://www.linkedin.com/in/fernandog8-dev/)
