@@ -9,7 +9,7 @@ además de servidores Linux.
 
 ## Stack
 
-- **Backend:** Java 21 y Spring Boot 3, NestJS, Node.js, C# y ASP.NET Core MVC, Python y FastAPI
+- **Backend:** Java 21 y Spring Boot 3, NestJS, Node.js, Python y FastAPI
 - **Frontend:** React, Vue, Astro, TypeScript, Tailwind CSS
 - **Bases de datos:** PostgreSQL, MySQL, SQL Server, SQLite, DynamoDB
 - **Cloud y DevOps:** Cloudflare, Microsoft Azure (VM Linux), AWS (EC2, Lambda), Docker, GitHub Actions
